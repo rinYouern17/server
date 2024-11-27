@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Laptop",
+    "price": 999.99,
+    "description": "A high-performance laptop",
+    "id": "48a7bdb7-c600-4209-9811-5e76bb45243d"
+  },
+  {
+    "name": "Smartphone",
+    "price": 699.99,
+    "description": "A latest model smartphone with advanced features",
+    "id": "44e09e82-f697-4844-b04f-c40ab66fba32"
+  },
+  {
+    "name": "Headphones",
+    "price": 199.99,
+    "description": "Noise-cancelling over-ear headphones",
+    "id": "26f0268d-8c31-432e-9f03-2925024c6ada"
+  },
+  {
+    "name": "Smartwatch",
+    "price": 299.99,
+    "description": "A smartwatch with fitness tracking and notifications",
+    "id": "2a1d735e-5bd3-49f5-86b0-f8d9098742bf"
+  },
+  {
+    "name": "Tablet",
+    "price": 499.99,
+    "description": "A high-resolution tablet for work and play",
+    "id": "d68a8b0a-6032-4c01-a78b-dfe38a29acd5"
+  },
+  {
+    "name": "Gaming Console",
+    "price": 399.99,
+    "description": "A next-gen gaming console with immersive graphics",
+    "id": "b2afd1b5-b37c-4aff-8e73-1754f9f23fd5"
+  }
+]
